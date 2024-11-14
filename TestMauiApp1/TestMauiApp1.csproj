@@ -60,10 +60,9 @@
 	</ItemGroup>
 
 	<ItemGroup>
-		<PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="9.0.0-rc.1.24431.7" />
+		<PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="9.0" />
 		<PackageReference Include="Microsoft.Maui.Controls.Compatibility" Version="8.0.91" />
 		<PackageReference Include="Microsoft.Maui.Controls" Version="$(MauiVersion)" />
-		<PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="9.0.0-rc.1.24431.7" />
 		<PackageReference Include="Syncfusion.Maui.Core" version="27.1.48" />
 		<PackageReference Include="Syncfusion.Maui.Inputs" version="27.1.48" />
 		<PackageReference Include="Syncfusion.Maui.TabView" version="27.1.48" />
